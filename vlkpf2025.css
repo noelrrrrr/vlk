@@ -1,0 +1,231 @@
+@font-face {
+    font-family: 'Lordish';
+    src: url('https://dl.dropboxusercontent.com/scl/fi/r7yu6okxnhjubdsslmszx/Lordish-Regular.eot?rlkey=vo8w9oovz3657vbcft38w9ep5');
+    src: url('https://dl.dropboxusercontent.com/scl/fi/r7yu6okxnhjubdsslmszx/Lordish-Regular.eot?rlkey=vo8w9oovz3657vbcft38w9ep5?#iefix') format('embedded-opentype'),
+        url('https://dl.dropboxusercontent.com/scl/fi/078od7t1o9zcpju3o7sxg/Lordish-Regular.woff2?rlkey=51e7odsddhu5e29uqayw5b7r3') format('woff2'),
+        url('https://dl.dropboxusercontent.com/scl/fi/2posyf72jvcd3wooc380h/Lordish-Regular.woff?rlkey=ywmz8zxjrvjrifmpn6zv3sdjb') format('woff'),
+        url('https://dl.dropboxusercontent.com/scl/fi/0793a8fn37qm5o07fq6ce/Lordish-Regular.ttf?rlkey=er4fiy42on6lcz71ofgiec4kp') format('truetype'),
+        url('https://dl.dropboxusercontent.com/scl/fi/lhzvud2zdb4bm3z0eb9lc/Lordish-Regular.svg?rlkey=6jitv596ew6205knx8bj6gfv0#Lordish-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+::-webkit-scrollbar {
+
+	background: #000000;
+	width: 0px;
+	cursor: s-resize;
+	padding: 0;
+	margin-right: 0px;
+}
+
+::-moz-selection {
+
+	color: #aaa;
+	background: none;
+	text-shadow: 0px 0px 0px #000!important;
+}
+
+::selection {
+
+	color: #aaa;
+	background: none;
+	text-shadow: 0px 0px 0px #000!important;
+}
+
+
+
+::-webkit-scrollbar {
+
+	background: #000000;
+	width: 0px;
+	cursor: s-resize;
+	padding: 0;
+	margin-right: 0px;
+}
+
+::-moz-selection {
+
+	color: #aaa;
+	background: none;
+	text-shadow: 0px 0px 0px #000!important;
+}
+
+::selection {
+
+	color: #aaa;
+	background: none;
+	text-shadow: 0px 0px 0px #000!important;
+}
+
+
+
+::-webkit-scrollbar {
+
+	background: #000000;
+	width: 0px;
+	cursor: s-resize;
+	padding: 0;
+	margin-right: 0px;
+}
+
+::-moz-selection {
+
+	color: #aaa;
+	background: none;
+	text-shadow: 0px 0px 0px #000!important;
+}
+
+::selection {
+
+	color: #aaa;
+	background: none;
+	text-shadow: 0px 0px 0px #000!important;
+}
+
+
+
+::-webkit-scrollbar {
+
+	background: #000000;
+	width: 0px;
+	cursor: s-resize;
+	padding: 0;
+	margin-right: 0px;
+}
+
+::-moz-selection {
+
+	color: #aaa;
+	background: none;
+	text-shadow: 0px 0px 0px #000!important;
+}
+
+::selection {
+
+	color: #aaa;
+	background: none;
+	text-shadow: 0px 0px 0px #000!important;
+}
+
+
+
+.space {position: relative; background-color: none; 
+   width: 650px; 
+   height: 600px;
+   left: 50%;
+   transform: translateX(-50%);
+ background: radial-gradient(circle, rgba(93,8,11,255) 10%, rgba(21,21,21,0) 60%)
+}
+
+.shadow {position: absolute; z-index: 1; 
+   
+   width: 500px; 
+   height: 500px;
+   top: 100%;
+   left: 50%;
+   transform: translate(-51%, -109%);
+   
+   background: url(https://i.imgur.com/aWUMFTu.png);
+   background-position: center;
+   transition: all 1s ease-in-out;
+}
+
+.black-moon {position: absolute; z-index: 2;
+   
+   width: 287px; 
+   height: 287px;
+   top: 100%;
+   left: 50%;
+
+   background: url(https://i.imgur.com/iHgORkw.png);
+   animation: moon-r 30s infinite ease;
+   animation-timing-function: linear;
+}
+
+@keyframes moon-r {
+   from {
+	   transform: translate(-80%, -165%) rotate(0deg);
+   }
+   to {
+	   transform: translate(-80%, -165%) rotate(359deg);
+   }
+}
+
+.p-to {position: absolute; z-index: 3;
+   
+   width: 89px; 
+   height: 56px;
+   top: 100%;
+   right: 0%;
+   transform: translate(-380px, -450px);
+
+   background: url(https://i.imgur.com/KAMgNRL.png);
+   transition: all 1s ease-in-out .8s;
+}
+
+.p-ashes {position: absolute; z-index: 3;
+   
+   width: 174px; 
+   height: 60px;
+   top: 100%;
+   right: 0%;
+   transform: translate(-380px, -390px);
+
+   background: url(https://i.imgur.com/UATMidj.png);
+   transition: all 1s ease-in-out .5s;
+}
+
+
+.p-and {position: absolute; z-index: 3;
+   
+   width: 135px; 
+   height: 52px;
+   top: 100%;
+   right: 0%;
+   transform: translate(-380px, -325px);
+   
+   background: url(https://i.imgur.com/o2rhexU.png);
+   transition: all 1s ease-in-out .8s;
+}
+
+
+.p-blood {position: absolute; z-index: 3;
+   
+   width: 209px; 
+   height: 56px;
+   top: 100%;
+   right: 0%;
+   transform: translate(-380px, -263px);
+
+   background: url(https://i.imgur.com/uI8MBjJ.png);
+   transition: all 1s ease-in-out .5s;
+}
+
+
+.self {position: absolute; z-index: 4; 
+   
+   width: 253px; 
+   height: 459px;
+   top: 100%;
+   left: 50%;
+   transform: translate(-51%, -120.5%);
+   
+   background: url(https://i.imgur.com/OcqwhnB.png);
+   transition: all 1s ease-in-out;
+}
+
+.silver-moon {position: absolute; z-index: 5;
+   
+   width: 530px; 
+   height: 471px;
+   top: 100%;
+   left: 50%;
+   transform: translate(-43%, -100%);
+   
+   background: url(https://i.imgur.com/zgoSMxF.png);
+   transition: all 1s ease-in-out;
+}
+
+.page {padding-top:80px; height:600px; text-align:center; font-size: 2rem;}
+.headtitle-a { width:300px; height: 300px; font-family: Lordish; font-size:80px; line-height:100%;}
