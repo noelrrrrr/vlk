@@ -1,0 +1,68 @@
+@font-face {font-family: 'Hatolie';src: url("https://noelrrrrr.github.io/vlk/Hatolie.ttf");}
+#vlksig {
+  position:relative;
+  width:400px;
+  height:250px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+}
+#vlksig #text {
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+}
+#vlksig #subtitle {
+  position:absolute;
+  opacity:0;
+  transition-duration: .8s;
+  -o-transition-duration: .8s;
+  -moz-transition-duration: .8s;
+  -webkit-transition-duration: .8s;
+}
+#vlksig #title {
+  position:absolute;
+  opacity:1;
+  transition-duration: .8s;
+  -o-transition-duration: .8s;
+  -moz-transition-duration: .8s;
+  -webkit-transition-duration: .8s;
+}
+#vlksig #paragraph {
+  position:absolute;
+  opacity:0;
+  transition-duration: .8s;
+  -o-transition-duration: .8s;
+  -moz-transition-duration: .8s;
+  -webkit-transition-duration: .8s;
+}
+#vlksig img {
+  position:absolute;
+  width:400px;
+  height:100px;
+  object-fit:cover;
+  transition-duration: .8s;
+  -o-transition-duration: .8s;
+  -moz-transition-duration: .8s;
+  -webkit-transition-duration: .8s;
+}
+#vlksig:hover #text {
+  justify-content: flex-start;
+}
+#vlksig:hover img {
+  height:150px;
+  transform:translateY(-50px);
+}
+#vlksig:hover #title {
+  transform:translateY(65px);
+}
+#vlksig:hover #subtitle {
+  opacity:1;
+  transform:translateY(50px);
+}
+#vlksig:hover #paragraph {
+  opacity:1;
+  transform:translateY(100px);
+}
