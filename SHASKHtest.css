@@ -193,13 +193,13 @@
 
 .SHASKH-NAME {
   position: absolute;
+  width: 90%;
   top: 94%;
-  left: 12%;
+  left: 11%;
   margin: auto; 
   font-family: 'Amicable';
-  text-align: center;
   color: var(--hah-cl);  
-  font-size: 3.5vw;  
+  font-size: 3.4vw;  
   text-shadow: 2px 2px var(--hah-sh)
 }
 
