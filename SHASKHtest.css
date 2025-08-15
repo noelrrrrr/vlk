@@ -1,0 +1,297 @@
+@import url('https://fonts.googleapis.com/css2?family=K2D:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@font-face { font-family: Amicable; src: url("https://noelrrrrr.github.io/highschool/amicable.ttf");}
+
+/* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
+
+[phone="pink"] {
+  --hah-ph: url(https://iili.io/FhRmHKl.png); 
+  --hah-cl: #a75461; 
+  --hah-sh: #6c2a35;
+  --hah-bg: url(https://iili.io/F1Yopkl.jpg);
+  --hsh-ph: url(https://iili.io/F0Vd36N.png); 
+  --hsh-cl: #e290a1; 
+  --hsh-sh: #4a3036;
+  --hsh-bg: url(https://iili.io/F1Yopkl.jpg);
+}
+
+[phone="red"] {
+  --hah-ph: url(https://iili.io/FhRbyP4.png); 
+  --hah-cl: #9a3f45; 
+  --hah-sh: #690209;
+  --hah-bg: url(https://iili.io/F1YotrG.jpg);
+  --hsh-ph: url(https://iili.io/F0Vdfat.png); 
+  --hsh-cl: #c4342b; 
+  --hsh-sh: #690209;
+  --hsh-bg: url(https://iili.io/F1YotrG.jpg);
+}
+
+[phone="green"] {
+  --hah-ph: url(https://iili.io/FhRbmoG.png);
+  --hah-cl: #53987d;
+  --hah-sh: #0e4029;
+  --hah-bg: url(https://iili.io/FeUWZEQ.jpg);
+  --hsh-ph: url(https://iili.io/F0Vdq8X.png);
+  --hsh-cl: #70c4b1;
+  --hsh-sh: #205748;
+  --hsh-bg: url(https://iili.io/F1Yom74.jpg);
+}
+
+[phone="black"] {
+  --hah-ph: url(https://iili.io/FhRmJl2.png);
+  --hah-cl: #424042; 
+  --hah-sh: #9c9c9c;
+  --hah-bg: url(https://iili.io/F0hcYl4.jpg);
+  --hsh-ph: url(https://iili.io/F0Vd2Gp.png);
+  --hsh-cl: #525052; 
+  --hsh-sh: #e4e4e4;
+  --hsh-bg: url(https://iili.io/F0hcYl4.jpg);
+}
+
+[phone="white"] {
+  --hah-ph: url(https://iili.io/FhRmdSS.png);
+  --hah-cl: #9c9c9c; 
+  --hah-sh: #424042;
+  --hah-bg: url(https://iili.io/FhKqpOx.png);
+  --hsh-ph: url(https://iili.io/FhKBHxV.png);
+  --hsh-cl: #979797; 
+  --hsh-sh: #dbdbdb;
+  --hsh-bg: url(https://iili.io/FhKqpOx.png);
+}
+
+[phone="blue"] {
+  --hah-ph: url(https://iili.io/FhRbtNn.png);
+  --hah-cl: #508ca4; 
+  --hah-sh: #17384a;
+  --hah-bg: url(https://iili.io/F1YxdQ9.jpg);
+  --hsh-ph: url(https://iili.io/F0VdC9n.png);
+  --hsh-cl: #6dbaed; 
+  --hsh-sh: #0d3241;
+  --hsh-bg: url(https://iili.io/F1YxdQ9.jpg);
+}
+
+[phone="purple"] {
+  --hah-ph: url(https://iili.io/FhRbZAX.png);
+  --hah-cl: #885dd9;
+  --hah-sh: #3e2a67;
+  --hah-bg: url(https://iili.io/F1Yx3Be.jpg);
+  --hsh-ph: url(https://iili.io/F0VdowG.png);
+  --hsh-cl: #885dd9;
+  --hsh-sh: #3a2463;
+  --hsh-bg: url(https://iili.io/F1Yx3Be.jpg);
+}
+
+[phone="orange"] {
+  --hah-ph: url(https://iili.io/FhRmKNe.png);
+  --hah-cl: #f28e49; 
+  --hah-sh: #4a2c17;
+  --hah-bg: url(https://iili.io/F1YxFEu.jpg); 
+  --hsh-ph: url(https://iili.io/F0VdRFS.png);
+  --hsh-cl: #f28e49; 
+  --hsh-sh: #4a2c17;
+  --hsh-bg: url(https://iili.io/F1YxFEu.jpg); 
+}
+
+[phone="yellow"] {
+  --hah-ph: url(https://iili.io/FegWqwg.png);
+  --hah-cl: #f2c355;
+  --hah-sh: #7a5b05;
+  --hah-bg: url(https://iili.io/F1YoZ1s.jpg); 
+  --hsh-ph: url(https://iili.io/F0VdTMl.png);
+  --hsh-cl: #f2c355;
+  --hsh-sh: #54441f;
+  --hsh-bg: url(https://iili.io/F1YoZ1s.jpg); 
+}
+
+[phone="cutscene"] {
+  --hah-ph: url(https://iili.io/Fh5TRob.png);
+  --hah-cl: #9c9c9c; 
+  --hah-sh: #4f2725;
+  --hah-bg: url(https://iili.io/F0bNpKF.png);
+  --hsh-ph: url(https://iili.io/F0bD1dG.png);
+  --hsh-cl: #e4e4e4; 
+  --hsh-sh: #2b2b2b;
+  --hsh-bg: url(https://iili.io/F0bNpKF.png);
+}
+
+/* FLIP PHONE */
+
+.SHASKH-box {
+    width: 100%;
+    aspect-ratio: 1 / 0.7;
+    position: relative;
+}
+
+.SHASKH-PH {
+    width: 38%;
+    aspect-ratio: 3.4/5;
+    position: absolute;
+    top: 17%;
+    left: 2%;
+    background: var(--hah-ph) center/cover;
+    rotate: 13deg;
+    z-index: 3;
+}
+
+.SHASKH-WK {
+    aspect-ratio: 1/1;
+    position: absolute;
+    z-index: 3;
+}
+
+.SHASKH-IMG {
+    width: 11%;
+   aspect-ratio: 1.9/3.1;
+    position: absolute;
+    top: 24.2%;
+    left: 11.5%;
+    background: var(--SHASKH-IM);
+    rotate: -8deg;
+    z-index: 2;
+}
+
+.SHASKH-WIN  {
+    width: 68%;
+    aspect-ratio: 3.02/2;
+    background: var(--hah-bg) center / cover;
+    position: absolute;
+    padding: 3vw;
+    top: 7%;
+    right: 6.5%;
+    box-sizing: border-box;
+}
+
+.SHASKH-T {
+    width: 100%;
+    font-family: 'K2D';
+    font-size: clamp(0.6rem, 1.1vw, 1.2rem);
+    line-height: 2;
+    color: #101010;
+    padding-top: 3vw;
+}
+
+.SHASKH-PS {
+    position: absolute;
+    width: 85%;
+    text-align: right;
+    top: 85%;
+    left: 7%;
+}
+
+.SHASKH-TXT {
+    position: absolute;
+    width: 85%;
+    height: 65.5%;
+    overflow-y: auto;
+    text-align: justify;
+    top: 15%;
+    left: 7%;
+}
+
+.SHASKH-TXT::-webkit-scrollbar {
+  display: none;
+}
+
+.SHASKH-NAME {
+  position: absolute;
+  top: 94%;
+  left: 12%;
+  margin: auto; 
+  font-family: 'Amicable';
+  text-align: center;
+  color: var(--hah-cl);  
+  font-size: 3.5vw;  
+  text-shadow: 2px 2px var(--hah-sh)
+}
+
+/* SLIDE PHONE */
+
+.SHHSKH-box {
+    width: 100%;
+    aspect-ratio: 1 / 0.7;
+    position: relative;
+}
+
+.SHHSKH-PH {
+    width: 28%;
+    aspect-ratio: 3.2/5;
+    position: absolute;
+    top: 29%;
+    left: 6%;
+    background: var(--hsh-ph) center/cover;
+    rotate: 6deg;
+    z-index: 3;
+}
+
+.SHHSKH-IMG {
+    width: 14%;
+   aspect-ratio: 2/3;
+    position: absolute;
+    top: 33%;
+    left: 12%;
+    background: var(--SHHSKH-IM);
+    rotate: -13deg;
+    z-index: 2;
+}
+
+.SHHASKH-WK {
+    aspect-ratio: 1/1;
+    position: absolute;
+    z-index: 3;
+}
+
+.SHHSKH-WIN  {
+    width: 68%;
+    aspect-ratio: 3.02/2;
+    background: var(--hsh-bg) center / cover;
+    position: absolute;
+    padding: 3vw;
+    top: 7%;
+    right: 6.5%;
+    box-sizing: border-box;
+}
+
+.SHHSKH-T {
+    width: 100%;
+    font-family: 'K2D';
+    font-size: clamp(0.6rem, 1.1vw, 1.2rem);
+    line-height: 2;
+    color: #101010;
+    padding-top: 3vw;
+}
+
+.SHHSKH-PS {
+    position: absolute;
+    width: 85%;
+    text-align: right;
+    top: 85%;
+    left: 7%;
+}
+
+.SHHSKH-TXT {
+    position: absolute;
+    width: 85%;
+    height: 65.5%;
+    overflow-y: auto;
+    text-align: justify;
+    top: 15%;
+    left: 7%;
+}
+
+.SHHSKH-TXT::-webkit-scrollbar {
+  display: none;
+}
+
+.SHHSKH-NAME {
+  position: absolute;
+  width: 90%;
+  top: 94%;
+  left: 11%;
+  margin: auto; 
+  font-family: 'Amicable';
+  color: var(--hsh-cl);  
+  font-size: 3.4vw;  
+  text-shadow: 2px 2px var(--hsh-sh)
+}
+
+/* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
+
