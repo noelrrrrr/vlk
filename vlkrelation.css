@@ -29,11 +29,11 @@
   color:#ffffff;
 }
 #valeskarelation .rlspace {
-  display: grid;  
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-row-start: auto;
-  gap: 0.8rem;
-  padding: 5% 5% 5% 5%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: calc(85% - 5px);
+  padding: 0px 0px 85px 70px;
   overflow: auto;
   justify-content: space-between;
 }
