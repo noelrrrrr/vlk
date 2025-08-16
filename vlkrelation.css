@@ -5,7 +5,7 @@
   margin:10px auto;
   overflow:hidden;
   border-radius: 5px;
-  background: linear-gradient(0deg, rgba(33,33,33) 0%, rgb(12,13,13) 100%);
+  background: linear-gradient(180deg,rgba(0, 0, 0, 1) 0%, rgba(36, 36, 36, 1) 50%, rgba(0, 0, 0, 1) 100%);
   box-shadow: 0px 0px 20px 0px #00000099;
 }
 #valeskarelation .rlhead {
