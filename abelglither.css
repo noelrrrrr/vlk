@@ -1,0 +1,82 @@
+@font-face {font-family: 'Hatolie';src:url('https://noelrrrrr.github.io/vlk/Hatolie.ttf');}
+
+
+#abelpinterest {
+  width: 100%;
+  height: 100%;
+  margin:auto;
+  box-sizing: border-box;
+  }
+  
+  span[class$="_board"] {
+    background: transparent !important;
+    border: none !important;
+    padding: 0px !important;
+  }
+  
+  span[class$="_hd"] {
+    display: none !important;
+  }
+  
+  span[class$="_ct"] {
+    padding: 0px;
+    z-index: 9;
+  }
+  
+  span[class$="_img"] {
+    margin: 10px !important;
+  }
+  
+  span[class$="_col"] {
+    margin: 10px !important;
+    width: 29% !important;
+  }
+  
+  span[class$="_ft"] {
+    display: none !important;
+  }
+  
+  span[class$="_img"] {
+    transition-duration: 0.3s;
+    filter: grayscale(100);
+  }
+  
+  span[class$="_img"]:hover {
+    transition-duration: 0.3s;
+    filter: grayscale(0);
+    transform: scale(1.5);
+    z-index: 9;
+  }
+  #abelpinterest ::-webkit-scrollbar {display: none;}
+
+
+  body {background-color:#131313;}
+@font-face {
+  font-family: "Saturdate Serif";
+  src: url("https://files.jcink.net/uploads2/godlybehaviour/GB23/SaturdateSerif.otf") format("opentype"), url("https://files.jcink.net/uploads2/godlybehaviour/GB23/SaturdateSerif.ttf") format("truetrype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; 
+}
+.ledlight {
+  color: #fff; 
+  text-shadow: 0 0 5px #fff, 0 0 10px #40826D, 0 0 15px #40826D; 
+  font: 50px 'Saturdate Serif', cursive;  
+  text-align: center;    
+  line-height: 10px; 
+  margin-left: 25px;
+}
+.ledlightout {
+  -moz-animation: ontheblink 10s infinite; 
+  -ms-animation: ontheblink 10s infinite; 
+  -webkit-animation: ontheblink 10s infinite;
+}
+.ledlightout2 {
+  -moz-animation: ontheblinkk 10s infinite; 
+  -ms-animation: ontheblinkk 10s infinite; 
+  -webkit-animation: ontheblinkk 10s infinite;
+} 
+@-moz-keyframes ontheblinkk {18%, 29%, 35%, 37%, 43% {color: transparent; text-shadow: none;} 16%, 28%, 30%, 34%, 36%, 38% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #40826D, 0 0 15px #40826D;0;}}
+@-webkit-keyframes ontheblinkk {18%, 29%, 35%, 37%, 43% {color: transparent; text-shadow: none;} 16%, 28%, 30%, 34%, 36%, 38% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #40826D; 0 0 15px #40826D;}}
+@-moz-keyframes ontheblink {21%, 39%, 45%, 47%, 53% {color: transparent; text-shadow: none;} 26%, 38%, 40%, 44%, 46%, 48% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #40826D, 0 0 15px #d6a124;}}
+@-webkit-keyframes ontheblink {21%, 39%, 45%, 47%, 53% {color: transparent; text-shadow: none;} 26%, 38%, 40%, 44%, 46%, 48% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #40826D, 0 0 15px #40826D;}}
