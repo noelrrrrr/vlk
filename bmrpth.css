@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
-@font-face {font-family:'Protest Demo'; src: url("https://dl.dropboxusercontent.com/scl/fi/jnz8dg12uviof63rjxpnx/Protest-Demo-Regular.otf?rlkey=hu2z4ocfnh97a145kjf1mm2vz&st=jwkz13lh&dl=0");}
+@font-face {font-family:'Protest Demo'; src: url("https://noelrrrrr.github.io/vlk/ProtestDemoRegular.otf");}
 .bldmna {max-width: 700px; position: relative; margin: 3vw auto; transition: all 1s ease; box-shadow: 0px 0px 20px rgba(87, 4, 4, 0.2);}
 .bldmna:hover {box-shadow: 0px 0px 40px rgba(87, 4, 4, 0.6);}
 .bldmnb {box-sizing: border-box; width: auto; position: relative; padding: 3rem 3rem 4rem 3rem; z-index: 3; box-shadow: 0px 0px 20px #00000099; background:var(--bgimg) center/cover; }
