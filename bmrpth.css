@@ -8,5 +8,5 @@
 .bldmnd {margin-top: 1.5rem; line-height: 2rem; text-align: justify; color: #fff; font-family: 'Bai Jamjuree'; font-size:1.1rem; padding: 0rem 1.5rem 0rem 1.5rem;}
 .bldmnf {transition: all 1s ease; text-shadow: 0 0 5px #8f8f8f, 0 0 5px #8f8f8f, 0 0 5px #8f8f8f;}
 .bldmnf:hover {text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 25px #fff;}
-.bldmng {max-width: 700px; position: relative; margin: 3vw auto; transition: all 1s ease; box-shadow: 0px 0px 20px rgba(87, 4, 4, 0.2);}
+.bldmng {max-width: 700px; position: relative; margin: 3vw auto; transition: all 1s ease; box-shadow: 0px 0px 20px  rgba(21, 0, 35, 0.2);}
 .bldmng:hover {box-shadow: 0px 0px 40px rgba(21, 0, 35, 0.6);}
