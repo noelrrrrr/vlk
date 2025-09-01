@@ -1,15 +1,4 @@
-@font-face {
-    font-family: 'Lordish';
-    src: url('https://dl.dropboxusercontent.com/scl/fi/r7yu6okxnhjubdsslmszx/Lordish-Regular.eot?rlkey=vo8w9oovz3657vbcft38w9ep5');
-    src: url('https://dl.dropboxusercontent.com/scl/fi/r7yu6okxnhjubdsslmszx/Lordish-Regular.eot?rlkey=vo8w9oovz3657vbcft38w9ep5?#iefix') format('embedded-opentype'),
-        url('https://dl.dropboxusercontent.com/scl/fi/078od7t1o9zcpju3o7sxg/Lordish-Regular.woff2?rlkey=51e7odsddhu5e29uqayw5b7r3') format('woff2'),
-        url('https://dl.dropboxusercontent.com/scl/fi/2posyf72jvcd3wooc380h/Lordish-Regular.woff?rlkey=ywmz8zxjrvjrifmpn6zv3sdjb') format('woff'),
-        url('https://dl.dropboxusercontent.com/scl/fi/0793a8fn37qm5o07fq6ce/Lordish-Regular.ttf?rlkey=er4fiy42on6lcz71ofgiec4kp') format('truetype'),
-        url('https://dl.dropboxusercontent.com/scl/fi/lhzvud2zdb4bm3z0eb9lc/Lordish-Regular.svg?rlkey=6jitv596ew6205knx8bj6gfv0#Lordish-Regular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
+@font-face {font-family: 'Lordish';src: url('https://noelrrrrr.github.io/vlk/fonnts.com-Lordish-Regular.ttf');}
 ::-webkit-scrollbar {
 
 	background: #000000;
