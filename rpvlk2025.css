@@ -67,11 +67,11 @@
 .rpvlk-tex {
     width: 100%;
     color: #101010;
+    font-size: 1vw;
 }
 .rpvlk-txt {
     position: absolute;
     font-family: 'K2D';
-    font-size: 0.5rem;
     line-height: 2;
     text-align: justify;
     width: 32%;
