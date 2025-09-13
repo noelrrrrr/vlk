@@ -71,7 +71,7 @@
 .rpvlkk-txt {
     position: absolute;
     font-family: 'K2D';
-    font-size: clamp(1rem, -1.5rem + 2vw, 3rem);
+    font-size: 0.5vw;
     line-height: 2;
     text-align: justify;
     width: 32%;
@@ -85,6 +85,7 @@
 .rpvlkk-txt::-webkit-scrollbar {
   display: none;
 }
+
 .rpvlk-name {
   position: absolute;
   top: 6%;
@@ -93,11 +94,12 @@
   font-family: 'Hamilton';
   text-align: center;
   color: var(--hsh-cl);  
- font-size: 3.3vw;
+  font-size: 3.3vw;
   text-shadow: 2px 2px var(--hsh-sh);
   rotate: 6deg;
   color: #f5f5f5;
 }
+
 .rpvlk-ps {
   position: absolute;
   top: 67%;
@@ -112,6 +114,5 @@
   color: #000;
   z-index: 4;
 }
-
 
 /* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
