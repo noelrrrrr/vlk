@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=K2D:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+D@import url('https://fonts.googleapis.com/css2?family=K2D:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 @font-face {
      font-family: 'Hamilton';
      src: url(https://files.jcink.net/uploads/shine/fonts/Hamilton.ttf);
@@ -71,7 +71,7 @@
 .rpvlk-txt {
     position: absolute;
     font-family: 'K2D';
-    font-size: 1vw;
+    font-size: 0.8vw;
     line-height: 2;
     text-align: justify;
     width: 32%;
