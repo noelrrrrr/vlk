@@ -71,7 +71,7 @@
 .rpvlk-txt {
     position: absolute;
     font-family: 'K2D';
-    font-size: clamp(1.2rem, 1vw, 2rem);
+    font-size: clamp(2rem, 2vw, 4rem);
     line-height: 2;
     text-align: justify;
     width: 32%;
