@@ -88,12 +88,12 @@
 .rpvlk-name {
   position: absolute;
   top: 6%;
-  left: 56%;
+  left: 55%;
   margin: auto; 
   font-family: 'Hamilton';
   text-align: center;
   color: var(--hsh-cl);  
-  font-size: 4.5vw;  
+  font-size: 4vw;  
   text-shadow: 2px 2px var(--hsh-sh);
   rotate: 6deg;
   color: #f5f5f5;
