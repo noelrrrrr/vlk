@@ -8,8 +8,9 @@
 
 .rpvlk-box {
     width: 100%;
-    aspect-ratio: 1/0.95;
+    aspect-ratio: 1/0.79;
     position: relative;
+    background:#121212;
 }
 
 .rpvlk-BG {
@@ -26,7 +27,7 @@
     width: 21%;
    aspect-ratio: 2.4/3;
     position: absolute;
-    top: 11.5%;
+    top: 13.5%;
     left: 9%;
     background: var(--IMG1) center/cover;
     rotate: -7deg;
@@ -36,7 +37,7 @@
     width: 21%;
    aspect-ratio: 2.4/3;
     position: absolute;
-    top: 9.3%;
+    top: 10.3%;
     left: 32.8%;
     background: var(--IMG2) center/cover;
     rotate: -6.7deg;
@@ -47,7 +48,7 @@
     width: 20.5%;
    aspect-ratio: 2.4/3;
     position: absolute;
-    top: 41.5%;
+    top: 49.5%;
     left: 12.8%;
     background: var(--IMG3) center/cover;
     rotate: -6.6deg;
@@ -57,7 +58,7 @@
     width: 20.5%;
     aspect-ratio: 2.4/3;
     position: absolute;
-    top: 38.9%;
+    top: 46.1%;
     left: 34.8%;
     background: var(--IMG4) center/cover;
     rotate: -7deg;
@@ -77,7 +78,7 @@
     width: 32%;
     height: 45%;
     overflow-y: auto;
-    top: 19%;
+    top: 23%;
     left: 56%;
     rotate: 4.9deg;
     z-index: 3;
@@ -87,7 +88,7 @@
 }
 .rpvlk-name {
   position: absolute;
-  top: 6%;
+  top: 8%;
   left: 55%;
   margin: auto; 
   font-family: 'Hamilton';
@@ -100,7 +101,7 @@
 }
 .rpvlk-ps {
   position: absolute;
-  top: 67%;
+  top: 78%;
   left: 75%;
   margin: auto; 
   font-family: 'Hamilton';
