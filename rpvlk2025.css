@@ -67,11 +67,11 @@
 .rpvlk-tex {
     width: 100%;
     color: #101010;
-    font-size: 1vw;
 }
-.rpvlk-txt {
+.rpvlkk-txt {
     position: absolute;
     font-family: 'K2D';
+    font-size: clamp(1rem, -1.5rem + 2vw, 3rem);
     line-height: 2;
     text-align: justify;
     width: 32%;
@@ -82,7 +82,7 @@
     rotate: 4.9deg;
     z-index: 3;
 }
-.rpvlk-txt::-webkit-scrollbar {
+.rpvlkk-txt::-webkit-scrollbar {
   display: none;
 }
 .rpvlk-name {
