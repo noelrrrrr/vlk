@@ -93,9 +93,9 @@
   font-family: 'Hamilton';
   text-align: center;
   color: var(--hsh-cl);  
-  font-size: 3vw;  
+  font-size: 4.5vw;  
   text-shadow: 2px 2px var(--hsh-sh);
-  rotate: 5deg;
+  rotate: 6deg;
   color: #f5f5f5;
 }
 .rpvlk-ps {
