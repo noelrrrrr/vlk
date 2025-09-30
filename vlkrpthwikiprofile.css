@@ -138,3 +138,14 @@
   display: flex;
   margin-top: 1vw;
 }
+
+#noelrrrrr .spoiler-text {
+  filter: blur(3px); 
+  transition: filter 0.3s ease-in-out; 
+  user-select: none; 
+  cursor: pointer; 
+}
+
+#noelrrrrr .spoiler-text.revealed {
+  filter: blur(0);
+}
