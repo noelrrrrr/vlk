@@ -21,7 +21,7 @@ max-width: 450px;
 height: 200px;
 }
 .vlkwhispost {
-  color: #9c9c9c;
+  color: #ababab;
   text-align: justify;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -31,7 +31,7 @@ height: 200px;
   padding: 20px;
 }
 .vlkwhisinfo {
-  color: #bababa;
+  color: #ababab;
   display: relative;
   font-family: 'Bai Jamjuree', serif;
   font-size: 16px;
@@ -40,7 +40,7 @@ height: 200px;
   padding-bottom: 10px;
 }
 .vlkwhisic {
-  color: #666999;
+  color: #ababab;
   font-size: 12px;
   display: inline-block;
   padding: 2px;
@@ -55,7 +55,7 @@ height: 200px;
   height: 10px;
   transition-delay: 2s;
   transform: rotate(0deg);
-  color: #8fbc8f;
+  color: #ababab;
   font-family: 'Nunito Sans', sans-serif;
   text-align: center;
   font-size: 12px; 
