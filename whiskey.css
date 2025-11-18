@@ -19,6 +19,9 @@ max-height: 200px;
 .vlkwhispic {
 max-width: 450px;
 height: 200px;
+background: url(https://iili.io/FMDeiQe.gif),url(https://i.imgur.com/ZPToiyk.jpeg)center/cover no-repeat; 
+background-blend-mode: screen; 
+background-position: 25% 20%;
 }
 .vlkwhispost {
   color: #ababab;
