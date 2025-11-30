@@ -69,7 +69,7 @@
   transform:translateY(100px);
 }
 
-#vlksig {
+#vdesum {
     details > summary { list-style: none; cursor: pointer;}
     details > summary::marker, details > summary::-webkit-details-marker { display: none;}
 }
