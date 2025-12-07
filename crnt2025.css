@@ -11,3 +11,11 @@
 .crnt-str {width: 26%; position: absolute; aspect-ratio: 3.5/2; top: -490%; left: 35%;  background: url(https://iili.io/fTpftJn.png) center/cover;}
 .crnt-bb {width: 100%; position: relative; margin: auto; aspect-ratio: 23/2; z-index: 1;}
 .crnt-b2 {width: auto; position: relative; background: url(https://iili.io/fu05lZN.png)top/cover; aspect-ratio:  16/1.9; z-index: 3; margin-top: -6vw;}
+
+.fmcrnt-b {width: 85%; position: relative; margin: 0.5vw auto; padding-bottom: 10vw;}
+.fmcrnt-b1 {width: 100%; position: relative; margin: auto; aspect-ratio: 18/5; background: url(https://iili.io/fulBcdP.png) top/cover; z-index: 2;}
+.fmcrnt-ct {width: 95%; margin: auto; position: relative; box-sizing: border-box; padding: 3vw 4vw 2vw 4vw; background: url(https://iili.io/fT31wHG.png); z-index: 1; margin-top: -5vw;}
+.fmcrnt-tx {width:auto; line-height: 2rem; text-align: justify; color: #000000; font-family: 'Bai Jamjuree'; font-size: clamp(1rem, 2vw, 1.6rem); padding: 2vw 1vw 1vw 1vw;}
+.fmcrnt-cbd3 {width: 100%; position: relative; aspect-ratio: 6/1; ;background: url(https://iili.io/fucLnZG.png) center/cover;}
+.fmcrnt-bb {width: 100%; position: relative; margin: auto; aspect-ratio: 23/2; z-index: 1;}
+.fmcrnt-b2 {width: auto; position: relative; background: url(https://iili.io/fu05lZN.png)top/cover; aspect-ratio:  16/1.9; z-index: 3; margin-top: -3.19vw;}
