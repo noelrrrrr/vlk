@@ -2,7 +2,7 @@
 .crnt-b {width: 85%; position: relative; margin: 0.5vw auto; padding-bottom: 12vw;}
 .crnt-b1 {width: 100%; position: relative; margin: auto; aspect-ratio: 18/5; background: url(https://iili.io/fTZkySS.png) top/cover; z-index: 2;}
 .crnt-ct {width: 95%; margin: auto; position: relative; box-sizing: border-box; padding: 2vw 4vw 12vw 4vw; background: url(https://iili.io/fT31wHG.png); z-index: 1; margin-top: -5vw;}
-.crnt-tx {width:auto; line-height: 2.1rem; text-align: justify; color: #000000; font-family: 'Bai Jamjuree'; font-size: 1.8rem; padding: 2vw 1vw 3vw 1vw;}
+.crnt-tx {width:auto; line-height: 2rem; text-align: justify; color: #000000; font-family: 'Bai Jamjuree'; font-size: 1.6rem; padding: 2vw 1vw 3vw 1vw;}
 .crnt-cbd1 {width: 65%; position: relative; margin: auto; aspect-ratio: 6/2; ;background: url(https://iili.io/fTRzjXs.png) center/cover;}
 .crnt-cbd2 {width: 68%; position: relative; margin: auto; aspect-ratio: 6/2; ;background: url(https://iili.io/fTRzOBf.png) center/cover;}
 .crnt-dw {width: 100%; position: relative; margin: auto; aspect-ratio: 20/1; z-index: 4;}
