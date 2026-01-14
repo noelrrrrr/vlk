@@ -37,7 +37,7 @@
     font-family: 'Bai Jamjuree';
     line-height: 1.8;
     color: #101010;
-    font-size: clamp(0.6rem, 1.2vw, 1.2vw);
+    font-size: clamp(0.6rem, 1.1vw, 1.2vw);
     width: 43%;
     height: 50%;
     overflow-y: auto;
@@ -53,7 +53,7 @@
 .MKLIWED-PS {
     position: absolute;
     font-family: 'Bai Jamjuree';
-    font-size: clamp(0.6rem, 1.2vw, 1.2vw);
+    font-size: clamp(0.6rem, 1.1vw, 1.2vw);
     width: 50%;
     line-height: 1.5;
     color: #101010;
