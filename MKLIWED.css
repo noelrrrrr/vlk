@@ -73,5 +73,78 @@
     left: 38%;
 }
 
+.MKLIWED-AN {
+    width: 100%;
+    aspect-ratio: 1/0.85;
+    position: relative;
+}
+
+.MKLIWEDAN-1 {
+    box-sizing: border-box;
+    width: 16.5%;
+    aspect-ratio: 2/3;
+    position: absolute;
+    top: 9%;
+    left: 15%;
+    background: var(--MKLIWEDUP)center/cover;
+}
+
+.MKLIWEDAN-2 {
+    box-sizing: border-box;
+    width: 16.5%;
+    aspect-ratio: 2/3;
+    position: absolute;
+    top: 60.5%;
+    left: 68%;
+    background: var(--MKLIWEDDN)center/cover;
+}
+
+.MKLIWED-REC {
+    position: absolute;
+    width: 80%;
+    aspect-ratio: 1/1;
+    background: url(https://iili.io/fUJdbj4.png) center / cover;
+    box-sizing: border-box;
+    top: 2%;
+    left: 10%;
+    z-index: 3;
+}
+
+.MKLIWEDAN-TX1 {
+    position: absolute;
+    font-family: 'Bai Jamjuree';
+    line-height: 1.8;
+    color: #403835;
+    font-size: clamp(0.6rem, 1.2vw, 1.2vw);
+    width: 36%;
+    height: 25%;
+    overflow-y: auto;
+    text-align: justify;
+    top: 29.5%;
+    left: 35%;
+}
+
+.MKLIWEDAN-TX2 {
+    position: absolute;
+    font-family: 'Bai Jamjuree';
+    line-height: 1.8;
+    color: #403835;
+    font-size: clamp(0.6rem, 1.2vw, 1.2vw);
+    width: 37%;
+    height: 28%;
+    overflow-y: auto;
+    text-align: justify;
+    top: 57%;
+    left: 28%;
+}
+
+.MKLIWEDAN-TX1::-webkit-scrollbar {
+  display: none;
+}
+
+.MKLIWEDAN-TX2::-webkit-scrollbar {
+  display: none;
+}
+
 /* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
 
