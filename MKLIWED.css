@@ -8,6 +8,18 @@
     position: relative;
 }
 
+.MKLIWED-NM {
+    font-family: 'Uncial Antiqua', serif;
+    font-size: clamp(1.5rem, 2.0vw, 2.5rem);
+    line-height: 1;
+    text-align: center;
+    position: absolute;
+    color: #403835c0;
+    width: 45%;
+    top: 30%;
+    left: 45%;
+}
+
 .MKLIWED-1 {
     box-sizing: border-box;
     width: 18.5%;
