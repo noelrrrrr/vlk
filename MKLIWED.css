@@ -8,18 +8,6 @@
     position: relative;
 }
 
-.MKLIWED-NM {
-    font-family: 'Uncial Antiqua', serif;
-    font-size: clamp(1rem, 2.0vw, 2rem);
-    line-height: 1;
-    text-align: center;
-    position: absolute;
-    color: #403835c0;
-    width: 45%;
-    top: 30%;
-    left: 45%;
-}
-
 .MKLIWED-1 {
     box-sizing: border-box;
     width: 18.5%;
@@ -72,6 +60,34 @@
   display: none;
 }
 
+.MKLIWED-NM {
+    font-family: 'Uncial Antiqua', serif;
+    font-size: clamp(1rem, 2.0vw, 2rem);
+    line-height: 1;
+    text-align: center;
+    position: absolute;
+    color: #403835c0;
+    width: 45%;
+    top: 30%;
+    left: 44%;
+}
+.MKLIWED-TXT {
+    position: absolute;
+    font-family: 'Bai Jamjuree';
+    line-height: 1.8;
+    color: #403835;
+    font-size: clamp(0.6rem, 1.1vw, 1.2vw);
+    width: 43%;
+    height: calc(48% - clamp(2.3rem, 3.4vw, 4rem));
+    overflow-y: auto;
+    text-align: justify;
+    top: calc(31% + clamp(2.3rem, 3.4vw, 4rem));
+    left: 45%;
+}
+
+.MKLIWED-TXT::-webkit-scrollbar {
+  display: none;
+}
 .MKLIWED-PS {
     position: absolute;
     font-family: 'Bai Jamjuree';
