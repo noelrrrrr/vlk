@@ -102,6 +102,70 @@
     left: 38%;
 }
 
+.MKLIWEDANO {
+    width: 100%;
+    aspect-ratio: 2/2.7;
+    position: relative;
+}
+
+.MKLIWEDAN1 {
+    box-sizing: border-box;
+    width: 16%;
+    aspect-ratio: 2/3;
+    position: absolute;
+    top: 6.5%;
+    left: 11.5%;
+    background: var(--MKLIWEDUP)center/cover;
+}
+
+.MKLIWEDAN2 {
+    box-sizing: border-box;
+    width: 16%;
+    aspect-ratio: 2/3;
+    position: absolute;
+    top: 43%;
+    left: 71.2%;
+    background: var(--MKLIWEDMD)center/cover;
+}
+
+.MKLIWEDAN3 {
+    box-sizing: border-box;
+    width: 16%;
+    aspect-ratio: 2/3;
+    position: absolute;
+    top: 72.5%;
+    left: 11.5%;
+    background: var(--MKLIWEDDN)center/cover;
+}
+
+.MKLIWEDREC {
+    position: absolute;
+    width: 85%;
+    aspect-ratio: 2/3;
+    background: url(https://iili.io/fUAmjSe.png) center / cover;
+    box-sizing: border-box;
+    top: 2%;
+    left: 7%;
+}
+
+.MKLIWEDANTX {
+    position: absolute;
+    font-family: 'Bai Jamjuree';
+    line-height: 1.6;
+    color: #403835;
+    font-size: clamp(0.6rem, 1vw, 1.2vw);
+    width: 40%;
+    height: 61%;
+    overflow-y: auto;
+    top: 20%;
+    left: 30%;
+    text-align: justify;
+}
+
+.MKLIWEDANTX::-webkit-scrollbar {
+  display: none;
+}
+
 /* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
 /* SPICIAL THANKS TO ZZZCODE @savant777 FOR IMPROVEMENTS  */
 
