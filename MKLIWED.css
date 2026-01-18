@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Uncial+Antiqua&display=swap');
+@font-face {font-family: 'BrookshireRegular';src:url('https://noelrrrrr.github.io/vlk/BrookshireRegular.ttf');}
 
 /* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
 /* SPICIAL THANKS TO ZZZCODE @savant777 FOR IMPROVEMENTS */
@@ -24,6 +25,40 @@
     border-radius: 100px;
     background: var(--MKLIWEDIM) var(--MKLIWED-POS)/var(--MKLIWED-SIZE);
     rotate: 8deg;
+}
+
+.MKLIWEDCM {
+    position: absolute;
+    width: 80%;
+    aspect-ratio: 1/1;
+    background: url(https://iili.io/fUyowxV.png) center / cover;
+    box-sizing: border-box;
+    top: 2%;
+    left: 10%;
+    z-index: 3;
+}
+
+.MKLIWEDCC {
+    position: absolute;
+    width: 80%;
+    aspect-ratio: 1/1;
+    background: url(https://iili.io/fUy1E0b.png) center / cover;
+    box-sizing: border-box;
+    top: 2%;
+    left: 10%;
+    z-index: 3;
+}
+
+.MKLIWEDBN {
+    font-family: 'BrookshireRegular';
+    font-size: clamp(1rem, 9vw, 8rem);
+    line-height: 1;
+    text-align: right;
+    position: absolute;
+    color: #f6f2f1;
+    width: 60%;
+    top: 2.5%;
+    left: 36%;
 }
 
 .MKLIWED-BG {
@@ -77,6 +112,7 @@
     top: 30.5%;
     left: 44%;
 }
+
 .MKLIWED-TXT {
     position: absolute;
     font-family: 'Bai Jamjuree';
@@ -94,6 +130,7 @@
 .MKLIWED-TXT::-webkit-scrollbar {
   display: none;
 }
+
 .MKLIWED-PS {
     position: absolute;
     font-family: 'Bai Jamjuree';
@@ -173,3 +210,6 @@
 
 /* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
 /* SPICIAL THANKS TO ZZZCODE @savant777 FOR IMPROVEMENTS  */
+
+
+body {background: #141414;}
