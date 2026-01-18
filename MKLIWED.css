@@ -3,6 +3,11 @@
 /* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
 /* SPICIAL THANKS TO ZZZCODE @savant777 FOR IMPROVEMENTS */
 
+:root {
+    --MKLIWED-POS: center;
+    --MKLIWED-SIZE: cover;
+}
+
 .MKLIWED-C {
     width: 100%;
     aspect-ratio: 1/0.85;
@@ -17,7 +22,7 @@
     top: 10.5%;
     left: 16.2%;
     border-radius: 100px;
-    background: var(--MKLIWEDIM)center/cover;
+    background: var(--MKLIWEDIM) var(--MKLIWED-POS)/var(--MKLIWED-SIZE);
     rotate: 8deg;
 }
 
@@ -168,4 +173,3 @@
 
 /* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
 /* SPICIAL THANKS TO ZZZCODE @savant777 FOR IMPROVEMENTS  */
-
