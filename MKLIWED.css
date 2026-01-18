@@ -97,7 +97,7 @@
 .MKLIWED-PS {
     position: absolute;
     font-family: 'Bai Jamjuree';
-    font-size: clamp(0.6rem, 1.1vw, 1.2vw);
+    font-size: clamp(0.6rem, 1vw, 1.2vw);
     width: 50%;
     line-height: 1.5;
     color: #403835;
