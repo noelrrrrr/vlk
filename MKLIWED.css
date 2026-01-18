@@ -51,7 +51,7 @@
 
 .MKLIWEDBN {
     font-family: 'BrookshireRegular';
-    font-size: clamp(1rem, 6.2vw, 6rem);
+    font-size: clamp(1rem, 6.6vw, 6rem);
     line-height: 1;
     text-align: right;
     position: absolute;
