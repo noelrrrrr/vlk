@@ -51,14 +51,14 @@
 
 .MKLIWEDBN {
     font-family: 'BrookshireRegular';
-    font-size: clamp(1rem, 9vw, 8rem);
+    font-size: clamp(1rem, 7.4vw, 7rem);
     line-height: 1;
     text-align: right;
     position: absolute;
     color: #f6f2f1;
-    width: 60%;
-    top: 2.5%;
-    left: 36%;
+    width: 63%;
+    top: 3%;
+    left: 34.9%;
 }
 
 .MKLIWED-BG {
