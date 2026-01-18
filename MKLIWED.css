@@ -53,7 +53,7 @@
     font-family: 'Bai Jamjuree';
     line-height: 1.8;
     color: #403835;
-    font-size: clamp(0.6rem, 1.1vw, 1.2vw);
+    font-size: clamp(0.6rem, 1vw, 1.2vw);
     width: 43%;
     height: 50%;
     overflow-y: auto;
@@ -82,7 +82,7 @@
     font-family: 'Bai Jamjuree';
     line-height: 1.8;
     color: #403835;
-    font-size: clamp(0.6rem, 1.1vw, 1.2vw);
+    font-size: clamp(0.6rem, 1vw, 1.2vw);
     width: 43%;
     height: calc(48% - clamp(2.3rem, 3.4vw, 4rem));
     overflow-y: auto;
