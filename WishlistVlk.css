@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
+
+/* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
+
+.WishlistVlk {
+    width: 100%;
+    aspect-ratio: 1/0.85;
+    position: relative;
+}
+
+.WishlistVlkim1 {
+    box-sizing: border-box;
+    width: 33%;
+    aspect-ratio: 3/2;
+    position: absolute;
+    top: 7%;
+    left: 17.5%;
+    background: var(--WishlistVlk1)center/cover;
+    rotate: -3deg;
+}
+
+.WishlistVlkim2 {
+    box-sizing: border-box;
+    width: 28%;
+    aspect-ratio: 2/3;
+    position: absolute;
+    top: 34%;
+    left: 13%;
+    background: var(--WishlistVlk2)center/cover;
+    rotate: -5.5deg;
+}
+
+.WishlistVlkim3 {
+    box-sizing: border-box;
+    width: 28%;
+    aspect-ratio: 2/3;
+    position: absolute;
+    top: 30%;
+    left: 57.5%;
+    background: var(--WishlistVlk3)center/cover;
+    rotate: 6.5deg;
+}
+.WishlistVlkVlkbg {
+    position: absolute;
+    width: 80%;
+    aspect-ratio: 1/1;
+    background: url(https://iili.io/fgGAMkN.png) center / cover;
+    box-sizing: border-box;
+    top: 2%;
+    left: 10%;
+    z-index: 3;
+}
+
+.WishlistVlkVlkTX {
+    position: absolute;
+    font-family: 'Bai Jamjuree';
+    line-height: 1.8;
+    color: #403835;
+    font-size: clamp(0.6rem, 1.2vw, 1.2vw);
+    width: 53%;
+    height: 63%;
+    overflow-y: auto;
+    text-align: justify;
+    top: 27.5%;
+    left: 24%;
+}
+
+.WishlistVlkVlkTX::-webkit-scrollbar {
+  display: none;
+}
+
+/* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
