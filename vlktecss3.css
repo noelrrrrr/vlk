@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
+@font-face {font-family: 'MNMahaHeng';src:url('https://noelrrrrr.github.io/vlk/MNMahaHeng.ttf');}
+
+/* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
+
+:root {
+    --tecss3pos: center;
+    --tecss3size: cover;
+}
+
+.tecss3 {
+    width: 100%;
+    aspect-ratio: 1/0.85;
+    position: relative;
+}
+
+.tecss3img {
+    box-sizing: border-box;
+    width: 22%;
+    aspect-ratio: 1/1;
+    position: absolute;
+    top: 9%;
+    left: 14%;
+    border-radius: 50%;
+    background: var(--tecss3pic) var(--tecss3pos)/var(--tecss3size);
+}
+
+.tecss3bg {
+    position: absolute;
+    width: 80%;
+    aspect-ratio: 1/1;
+    background: url(https://iili.io/frP5oqF.png) center / cover;
+    box-sizing: border-box;
+    top: 2%;
+    left: 10%;
+    z-index: 3;
+}
+
+.tecss3mn {
+    font-family: 'MNMahaHeng';
+    font-size: clamp(1rem, 3.5vw, 2rem);
+    line-height: 1;
+    text-align: right;
+    position: absolute;
+    color: #cc5e3f;
+    top: 27.5%;
+    left: 36%;
+}
+
+.tecss3tx {
+    position: absolute;
+    font-family: 'Bai Jamjuree';
+    line-height: 1.8;
+    color: #403835;
+    font-size: clamp(0.6rem, 1vw, 1.2vw);
+    width: 75%;
+    height: 48%;
+    overflow-y: auto;
+    text-align: justify;
+    top: 38%;
+    left: 12.5%;
+}
+
+.tecss3tx::-webkit-scrollbar {
+  display: none;
+}
+
+.tecss3ps {
+    position: absolute;
+    font-family: 'Bai Jamjuree';
+    font-size: clamp(0.6rem, 1vw, 1.2vw);
+    width: 50%;
+    line-height: 1.5;
+    color: #403835;
+    overflow-y: auto;
+    text-align: right;
+    top: 89%;
+    left: 35%;
+}
+
+/* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
