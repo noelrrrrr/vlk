@@ -38,13 +38,15 @@
 
 .tecss3mn {
     font-family: 'MNMahaHeng';
-    font-size: clamp(1rem, 3.5vw, 2rem);
+    font-size: clamp(1.2rem, 3.8vw, 3rem);
     line-height: 1;
-    text-align: right;
+    text-align: center;
     position: absolute;
     color: #cc5e3f;
-    top: 27.5%;
-    left: 36%;
+    width: 50%;
+    top: 28%;
+    left: 35%;
+    background-color: #666999;
 }
 
 .tecss3tx {
