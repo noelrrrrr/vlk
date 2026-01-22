@@ -54,12 +54,12 @@
     line-height: 1.8;
     color: #403835;
     font-size: clamp(0.6rem, 1vw, 1.2vw);
-    width: 75%;
+    width: 73%;
     height: 48%;
     overflow-y: auto;
     text-align: justify;
-    top: 38%;
-    left: 12.5%;
+    top: 38.5%;
+    left: 13.5%;
 }
 
 .tecss3tx::-webkit-scrollbar {
