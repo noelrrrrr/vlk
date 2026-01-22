@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&display=swap');
+
 ::-webkit-scrollbar {background: #000000; width: 0px; cursor: s-resize; padding: 0; margin-right: 0px;}
 .profile-table {background-color: none; position: relative;   width: 700px;     height: 780px;     margin-top:15px;} 
 .tarot_morte, .tarot_luna, .tarot_papessa { position: absolute; z-index: 2; float: left;     width: 230px; height: 394px; background-color: transparent; perspective: 1000px;}#morte{ left:30px; margin-top:40px; transform: rotate(-15deg);}#luna { right: 30px;margin-top:40px; transform: rotate(15deg);}#papessa {left: 235px; margin-top:0px;}
