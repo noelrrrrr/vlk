@@ -5,7 +5,6 @@
 
 	background: #000000;
 	width: 0px;
-	cursor: s-resize;
 	padding: 0;
 	margin-right: 0px;
 }
@@ -24,131 +23,14 @@
 	text-shadow: 0px 0px 0px #000!important;
 }
 
-#vlkrpfindex .space {position: relative; background-color: none; 
-   width: 650px; 
-   height: 600px;
-   left: 50%;
-   transform: translateX(-50%);
- background: radial-gradient(circle, rgba(93,8,11,255) 10%, rgba(21,21,21,0) 60%)
-}
-
-#vlkrpfindex .shadow {position: absolute; z-index: 1; 
-   
-   width: 500px; 
-   height: 500px;
-   top: 100%;
-   left: 50%;
-   transform: translate(-51%, -109%);
-   
-   background: url(https://i.imgur.com/aWUMFTu.png);
-   background-position: center;
-   transition: all 1s ease-in-out;
-}
-
-#vlkrpfindex .black-moon {position: absolute; z-index: 2;
-   
-   width: 287px; 
-   height: 287px;
-   top: 100%;
-   left: 50%;
-
-   background: url(https://i.imgur.com/iHgORkw.png);
-   animation: moon-r 30s infinite ease;
-   animation-timing-function: linear;
-}
-
-@keyframes moon-r {
-   from {
-	   transform: translate(-80%, -165%) rotate(0deg);
-   }
-   to {
-	   transform: translate(-80%, -165%) rotate(359deg);
-   }
-}
-
-#vlkrpfindex .p-to {position: absolute; z-index: 3;
-   
-   width: 89px; 
-   height: 56px;
-   top: 100%;
-   right: 0%;
-   transform: translate(-380px, -450px);
-
-   background: url(https://i.imgur.com/KAMgNRL.png);
-   transition: all 1s ease-in-out .8s;
-}
-
-#vlkrpfindex .p-ashes {position: absolute; z-index: 3;
-   
-   width: 174px; 
-   height: 60px;
-   top: 100%;
-   right: 0%;
-   transform: translate(-380px, -390px);
-
-   background: url(https://i.imgur.com/UATMidj.png);
-   transition: all 1s ease-in-out .5s;
-}
-
-
-#vlkrpfindex .p-and {position: absolute; z-index: 3;
-   
-   width: 135px; 
-   height: 52px;
-   top: 100%;
-   right: 0%;
-   transform: translate(-380px, -325px);
-   
-   background: url(https://i.imgur.com/o2rhexU.png);
-   transition: all 1s ease-in-out .8s;
-}
-
-
-#vlkrpfindex .p-blood {position: absolute; z-index: 3;
-   
-   width: 209px; 
-   height: 56px;
-   top: 100%;
-   right: 0%;
-   transform: translate(-380px, -263px);
-
-   background: url(https://i.imgur.com/uI8MBjJ.png);
-   transition: all 1s ease-in-out .5s;
-}
-
-
-#vlkrpfindex .self {position: absolute; z-index: 4; 
-   
-   width: 253px; 
-   height: 459px;
-   top: 100%;
-   left: 50%;
-   transform: translate(-51%, -120.5%);
-   
-   background: url(https://i.imgur.com/OcqwhnB.png);
-   transition: all 1s ease-in-out;
-}
-
-#vlkrpfindex .silver-moon {position: absolute; z-index: 5;
-   
-   width: 530px; 
-   height: 471px;
-   top: 100%;
-   left: 50%;
-   transform: translate(-43%, -100%);
-   
-   background: url(https://i.imgur.com/zgoSMxF.png);
-   transition: all 1s ease-in-out;
-}
-
-#vlkrpfindex .page {
+.page {
 	padding-top:80px; 
-	height:600px; 
+	height:350px; 
 	text-align:center; 
 	font-size: 2rem;
 }
 
-#vlkrpfindex .headtitle-a { 
+.headtitle-a { 
 	width:300px; 
 	height: 300px; 
 	font-family: Lordish; 
