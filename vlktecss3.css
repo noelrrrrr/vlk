@@ -70,13 +70,13 @@
     position: absolute;
     font-family: 'Bai Jamjuree';
     font-size: clamp(0.6rem, 1vw, 1.2vw);
-    width: 50%;
+    width: 70%;
     line-height: 1.5;
     color: #403835;
     overflow-y: auto;
     text-align: right;
     top: 89%;
-    left: 35%;
+    left: 16%; 
 }
 
 /* CODE BY VALESKA @thelessyouknowthebetter FOR ROLEPLAYTH */
