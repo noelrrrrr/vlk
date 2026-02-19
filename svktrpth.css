@@ -9,7 +9,7 @@
 }
 
 .svktbox {
-  max-width:500px;
+  max-width:600px;
   height: auto;
   box-sizing: border-box;
   margin: auto;
@@ -17,7 +17,7 @@
   padding: 50px 20px 50px 20px;;
 }
 .svktnm {
-  max-width:500px;
+  max-width:600px;
   line-height:80%;
   padding:15px 0px 0px 0px;
   margin-bottom:3px;
@@ -27,7 +27,7 @@
   color:#ababab;
 }
 .svktsay {
-  max-width:500px;
+  max-width:600px;
   line-height:90%;
   padding: 10px 0px 15px 0px;
   font-size:28px;
@@ -37,14 +37,14 @@
 }
 
 .svktimg {
-  max-width:500px;
+  max-width:600px;
   height:250px; 
   margin: auto;
   background: var(--svkt-pic) var(--svkt-pos)/var(--svkt-size) no-repeat;
   margin-bottom:20px;
 }
 .svkttext  {
-  max-width:500px;
+  max-width:600px;
   line-height:30px;
   padding: 0px 0px 10px 0px;
   text-align: justify;
@@ -53,7 +53,7 @@
   color:#ababab;
 }
 .svktps {
-  max-width:500px;
+  max-width:600px;
   line-height:100%;
   font-size: 17px;
   font-family: 'Bai Jamjuree', serif;
