@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Instrument+Serif:ital@0;1&family=Oooh+Baby&display=swap');
+@font-face {font-family:'Protest Demo'; src: url("https://noelrrrrr.github.io/vlk/ProtestDemoRegular.otf");}
+
+:root {
+    --svkt-pic: transparent;
+    --svkt-pos: center;
+    --svkt-size: cover;
+}
+
+.svkttxtp {
+  max-width:500px;
+  line-height:80%;
+  margin: auto;
+  padding:15px 0px 0px 0px;
+  margin-bottom:3px;
+  font-size:56px;
+  font-family: 'Instrument Serif', serif;
+  text-align:left;
+  color:#ababab;
+}
+.svkttxlt {
+  max-width:500px;
+  line-height:90%;
+  padding: 10px 0px 15px 0px;
+  font-size:28px;
+  font-family: 'Oooh Baby', cursive;
+  text-align:right;
+  color:#6d87b8;
+  margin: auto;
+}
+
+.svktimg {
+  max-width:500px;
+  height:250px;
+  position: relative;  
+  margin: auto;
+  background: var(--svkt-pic) var(--svkt-pos)/var(--svkt-size) no-repeat;
+}
+.svkttext  {
+  max-width:500px;
+  line-height:30px;
+  padding: 270px 0px 10px 0px;
+  text-align:justify;
+  font-size:16px;
+  font-family: 'Bai Jamjuree' ;
+  color:#ababab;
+}
+.svktps {
+  max-width:500px;
+  line-height:100%;
+  font-size:16px;
+  font-family: 'Bai Jamjuree', serif;
+  color:#6d87b8;
+  text-align:right;
+  padding: 0px -290px;
+  text-transform:uppercase;
+}
+
+
+
