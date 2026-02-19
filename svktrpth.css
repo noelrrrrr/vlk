@@ -5,6 +5,7 @@
     --svkt-pic: transparent;
     --svkt-pos: center;
     --svkt-size: cover;
+    --svkt-color: #6d87b8;
 }
 
 .svktbox {
@@ -32,7 +33,7 @@
   font-size:28px;
   font-family: 'Oooh Baby', cursive;
   text-align:right;
-  color:#6d87b8;
+  color: var(--svkt-color);
 }
 
 .svktimg {
@@ -56,11 +57,8 @@
   line-height:100%;
   font-size:16px;
   font-family: 'Bai Jamjuree', serif;
-  color:#6d87b8;
+  color: var(--svkt-color);
   text-align:right;
   padding: 0px -290px;
   text-transform:uppercase;
 }
-
-
-
