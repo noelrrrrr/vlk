@@ -7,10 +7,17 @@
     --svkt-size: cover;
 }
 
-.svkttxtp {
+.svktbox {
+  max-width:500px;
+  height: auto;
+  box-sizing: border-box;
+  margin: auto;
+  position: relative;
+  padding: 50px 20px 50px 20px;;
+}
+.svktnm {
   max-width:500px;
   line-height:80%;
-  margin: auto;
   padding:15px 0px 0px 0px;
   margin-bottom:3px;
   font-size:56px;
@@ -18,7 +25,7 @@
   text-align:left;
   color:#ababab;
 }
-.svkttxlt {
+.svktsay {
   max-width:500px;
   line-height:90%;
   padding: 10px 0px 15px 0px;
@@ -26,21 +33,20 @@
   font-family: 'Oooh Baby', cursive;
   text-align:right;
   color:#6d87b8;
-  margin: auto;
 }
 
 .svktimg {
   max-width:500px;
-  height:250px;
-  position: relative;  
+  height:250px; 
   margin: auto;
   background: var(--svkt-pic) var(--svkt-pos)/var(--svkt-size) no-repeat;
+  margin-bottom:20px;
 }
 .svkttext  {
   max-width:500px;
   line-height:30px;
-  padding: 270px 0px 10px 0px;
-  text-align:justify;
+  padding: 0px 0px 10px 0px;
+  text-align: justify;
   font-size:16px;
   font-family: 'Bai Jamjuree' ;
   color:#ababab;
