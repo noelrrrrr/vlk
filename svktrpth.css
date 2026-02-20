@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Instrument+Serif:ital@0;1&family=Oooh+Baby&display=swap');
-@font-face {font-family:'Protest Demo'; src: url("https://noelrrrrr.github.io/vlk/ProtestDemoRegular.otf");}
 
 :root {
     --svkt-pic: transparent;
@@ -25,7 +24,10 @@
   font-family: 'Instrument Serif', serif;
   text-align:left;
   color:#ababab;
+  text-shadow: 0 0 5px #000, 0 0 5px #000, 0 0 5px #000;
+  transition: all 1s ease-out;
 }
+
 .svktsay {
   max-width:600px;
   line-height:90%;
@@ -61,3 +63,10 @@
   text-align:right;
   text-transform:uppercase;
 }
+
+.svktnm:hover  {
+  color: #d3d3d3; 
+  text-shadow: 0 0 5px #6d87b8, 0 0 10px #6d87b8, 0 0 15px #6d87b8; 
+  transition: all 1s ease-out;
+}
+
