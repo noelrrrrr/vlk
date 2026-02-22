@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
 @font-face {font-family:'Protest Demo'; src: url("https://noelrrrrr.github.io/vlk/ProtestDemoRegular.otf");}
-.bldmna {max-width: 700px; position: relative; margin: 3vw auto; transition: all 1s ease; box-shadow: 0px 0px 20px rgba(87, 4, 4, 0.2);}
+.bldmna {max-width: 750px; position: relative; margin: 3vw auto; transition: all 1s ease; box-shadow: 0px 0px 20px rgba(87, 4, 4, 0.2);}
 .bldmna:hover {box-shadow: 0px 0px 40px rgba(87, 4, 4, 0.6);}
 .bldmnb {box-sizing: border-box; width: auto; position: relative; padding: 3rem 3rem 4rem 3rem; z-index: 3; box-shadow: 0px 0px 20px #00000099; background:var(--bgimg) center/cover; }
 .bldmnc {position: relative; margin: 1vw 2vw 2vw 1vw; font-family: 'Protest Demo';text-align: center;color: #e6e6e6;  font-size: 2.2rem;  transition: all 1s ease; text-shadow: 0 0 5px #8f8f8f, 0 0 5px #8f8f8f, 0 0 5px #8f8f8f;}
