@@ -117,10 +117,11 @@ background-position: 25% 20%;
 }
 .vlkwhic {
   color: #ababab;
-  font-size: 12px;
+  font-size: 17px;
   display: inline-block;
   padding: 2px;
   margin-right: 5px;
+  margin-left: 5px;
 }
 .vlkwhb {  
   -moz-transition: all ease-in-out 3s; 
