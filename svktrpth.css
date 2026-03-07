@@ -66,7 +66,7 @@
 
 .svktnm:hover  {
   color: #d3d3d3; 
-  text-shadow: 0 0 5px #6d87b8, 0 0 10px #6d87b8, 0 0 15px #6d87b8; 
+  text-shadow: 0 0 5px var(--svkt-color), 0 0 10px var(--svkt-color), 0 0 15px var(--svkt-color); 
   transition: all 1s ease-out;
 }
 
