@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
+@font-face {font-family:'ZFTERMIN'; src: url("https://noelrrrrr.github.io/vlk/ZFTERMIN__.ttf");}
+
+.tierbox {
+    width: 900px;
+    max-width: 90%;
+    margin: auto;
+    background: #242222;
+    border: 1px solid #fff;
+    font-family: 'Bai Jamjuree';
+    font-size: clamp(16px, 1vw, 18px);
+    line-height: 1.8;
+}
+.tierheader {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    justify-content: space-between;
+    border-bottom: 1px solid #fff;
+    font-size: 0.825rem;
+    color: #fff;
+    line-height: 1;
+}
+.tiertitle {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1.5rem;
+  font-family:'ZFTERMIN';
+}
+.tierx {
+  display: flex; 
+  gap: 1rem;
+  font-family:'ZFTERMIN';
+  font-size: 1.5rem;
+}
+
+.tiertxt { 
+  padding: 1.8rem;
+  color: #fff; 
+}
