@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Kathiega';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Kathiega'), url('https://fonts.cdnfonts.com/s/106949/Kathiega-d9aPl.woff') format('woff');
+}
+@font-face {
+    font-family: 'Kathiega Swash';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Kathiega Swash'), url('https://fonts.cdnfonts.com/s/106949/Kathiegaswash-7B4eE.woff') format('woff');
+}
+.nrledlight {
+  color: #fff; 
+  text-shadow: 0 0 5px #fff, 0 0 10px #666999, 0 0 15px #666999; 
+  text-align: center;    
+  line-height: 10px; 
+}
+.nrledlightout {
+  -moz-animation: ontheblink 10s infinite; 
+  -ms-animation: ontheblink 10s infinite; 
+  -webkit-animation: ontheblink 10s infinite;
+}
+.nrledlightout2 {
+  -moz-animation: ontheblinkk 10s infinite; 
+  -ms-animation: ontheblinkk 10s infinite; 
+  -webkit-animation: ontheblinkk 10s infinite;
+} 
+@-moz-keyframes ontheblinkk {18%, 29%, 35%, 37%, 43% {color: transparent; text-shadow: none;} 16%, 28%, 30%, 34%, 36%, 38% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #666999, 0 0 15px #666999;0;}}
+@-webkit-keyframes ontheblinkk {18%, 29%, 35%, 37%, 43% {color: transparent; text-shadow: none;} 16%, 28%, 30%, 34%, 36%, 38% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #666999; 0 0 15px #666999;}}
+@-moz-keyframes ontheblink {21%, 39%, 45%, 47%, 53% {color: transparent; text-shadow: none;} 26%, 38%, 40%, 44%, 46%, 48% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #666999, 0 0 15px #666999;}}
+@-webkit-keyframes ontheblink {21%, 39%, 45%, 47%, 53% {color: transparent; text-shadow: none;} 26%, 38%, 40%, 44%, 46%, 48% {color: #fff; text-shadow: 0 0 5px #fff, 0 0 10px #666999, 0 0 15px #666999;}}
