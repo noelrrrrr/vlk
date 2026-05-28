@@ -2,14 +2,9 @@
     font-family: 'Kathiega';
     font-style: normal;
     font-weight: 400;
-    src: local('Kathiega'), url('https://fonts.cdnfonts.com/s/106949/Kathiega-d9aPl.woff') format('woff');
+    src: local('Kathiega'), url('https://noelrrrrr.github.io/vlk/Kathiega-d9aPl.woff') format('woff');
 }
-@font-face {
-    font-family: 'Kathiega Swash';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Kathiega Swash'), url('https://fonts.cdnfonts.com/s/106949/Kathiegaswash-7B4eE.woff') format('woff');
-}
+
 .nrledlight {
   color: #fff; 
   text-shadow: 0 0 5px #fff, 0 0 10px #666999, 0 0 15px #666999; 
