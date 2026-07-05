@@ -146,3 +146,12 @@ background-position: 25% 20%;
      50% {color: #c7c7c7; filter:blur(1.5px);}
      100% {color: #c7c7c7; filter:blur(0px);}
 }
+
+.vlkwhb {
+  filter: blur(0); 
+  transition: filter 0.3s ease-in-out; 
+}
+
+.vlkwhb:hover {
+filter: blur(2px);
+}
